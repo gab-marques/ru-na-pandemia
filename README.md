@@ -10,7 +10,7 @@
    fila, pilha e lista
 
 ## Requisitos
-   compilador gcc
+         compilador gcc
 ## Como executar
   Make
   ./ru_na_pandemia
