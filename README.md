@@ -7,11 +7,11 @@
 #### Se for vacinado e não estiver de máscara, poderá comprar a máscara. 
 
 #### O programa utiliza de alumas estruturas de dados:
-   fila, pilha e lista
+         fila, pilha e lista
 
 ## Requisitos
          compilador gcc
 ## Como executar
-  Make
-  ./ru_na_pandemia
+       Make
+     ./ru_na_pandemia
   
