@@ -6,7 +6,7 @@
      Se não for vacinado e não estiver de máscara, sai da fila 
      Se for vacinado e não estiver de máscara, poderá comprar a máscara. 
 
-#### O programa utiliza de alumas estruturas de dados:
+#### O programa utiliza de algumas estruturas de dados:
          fila, pilha e lista
 
 ## Requisitos
